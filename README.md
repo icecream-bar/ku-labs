@@ -13,8 +13,9 @@ This repository contains the necessary configurations to deploy a Kubernetes lab
 - `kubectl` installed and configured
 ​
 ## Architecture
-​
-![Kubernetes-Lab Architecture](https://github.com/user-attachments/assets/eff8fc6f-bf21-4b59-a8c4-9c6d2f38d2c2)
+
+​![IMG_1725](https://github.com/user-attachments/assets/88d094fd-e0f3-4464-923c-6ac0323cc795)
+
 ​
 ### 0. Create cluster (optional)
 ​
