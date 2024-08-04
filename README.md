@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1234px-Kubernetes_logo_without_workmark.svg.png" alt="Logo" width="80" height="80">
   <h1>Kubernetes Lab Deployment</h1>
   <p>This repository contains configurations to deploy a Kubernetes lab environment, including a vulnerable RCE application and other services.</p>
 </div>
